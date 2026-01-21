@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d6885824-adf0-4514-a21b-46664c0fbbc5
+
 # 🎬 Movie Recommendation System
 
 A content-based Movie Recommendation System built using **Python**, **Streamlit**, and the **TMDB API**.  
